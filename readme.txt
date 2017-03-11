@@ -4,5 +4,9 @@ created by Madelyn Reyes
 This is also one of the first time that I am using git on a project.
 Woo change
 here is a change while branching
+<<<<<<< HEAD
 another change
 
+=======
+Here is a change to illustrate merge conflicts in git
+>>>>>>> master
